@@ -1,0 +1,115 @@
+.header-fixed{
+    position: fixed;
+    box-shadow: 5px 5px 5px rgb(216, 201, 201); 
+    width: 100%;
+    height: 46px;
+}
+
+/* .container{
+width: 85%;
+margin: auto;
+
+} */
+
+.header img{
+    position: relative;
+    width: 235px;
+    top: 60px;
+    margin-left: 15px;
+} 
+
+.navigation ul{
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 80px;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    margin-left: 20px;
+    background-image: linear-gradient(to right, rgb(19, 82, 199), rgb(54, 73, 158));
+    font-family: Segoe UI black;
+    font-size:  12px;
+    border-radius: 6px;
+    font-weight: bold;
+    
+}    
+
+li{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+a{
+    padding: 19px;
+    color:cornsilk;
+    text-decoration: none;
+}
+
+ul li:hover a{
+    color: orangered;
+}
+
+.content-one img{
+    /* margin-top: 5px;
+    margin-bottom: 20px; */
+    position: relative;
+    top: 10px;
+    border-radius: 4px;
+    margin-left: 10px; 
+    padding: 20px;   
+}
+
+.content-one h3{
+    font-size: 14px;
+    position: relative;
+    top:  5px;
+    margin-left:  30px;
+    margin-top: -10px;
+    
+}
+
+div{
+    float: left;
+
+}
+ .content-left {
+    float: left;
+    width: 60%;
+}
+
+.content-right {
+    float: left;
+    width: 40%;
+}
+
+.fitur-img-wrapper {
+    height: 350px overflow: hidden;
+    width: 100%;
+}
+
+.fitur-img {
+    height: 350px;
+    background-image: url (image/... .jpg);
+    transition: all . 5s;
+    cursor: pointer;
+}
+
+.fitur-img: hover, fitur-img: focus {
+    transform: scale (1, 2)
+}
+
+.fitur-text {
+    height : 80px;
+    background-color: blue;
+}
+
+.fitur {
+    margin-bottom: 32px border-radius: 10px;
+    overflow
+}
+
+.fitur-title-wrapper {
+    position: absolut;
+    botton: 0; */
